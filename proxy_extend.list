@@ -1,4 +1,6 @@
 # 内容：补充规则1
 # DOMAIN-KEYWORD,gmail
 DOMAIN-SUFFIX,iyideng.net
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,dler.io
 # IP-CIDR,74.125.0.0/16,no-resolve
