@@ -1,10 +1,10 @@
 # 内容：Google
 # 数量：24条
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
