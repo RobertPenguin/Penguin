@@ -1,7 +1,5 @@
 # 内容：补充规则1
 # DOMAIN-KEYWORD,gmail
-DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,callofduty.com
