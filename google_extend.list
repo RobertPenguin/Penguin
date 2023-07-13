@@ -1,5 +1,7 @@
 # 内容：Google
 # 数量：24条
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,gmail
