@@ -1,0 +1,4 @@
+# 内容：补充禁止规则
+# DOMAIN-KEYWORD,gmail
+DOMAIN-SUFFIX,dsp01.admama.com
+# IP-CIDR,74.125.0.0/16,no-resolve
