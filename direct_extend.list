@@ -1,0 +1,22 @@
+# 内容：国内直连补充1
+# DOMAIN-KEYWORD,gmail
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,starrails.com
+DOMAIN-SUFFIX,hk-bundle-jp-mihayo.akamaized.net
+DOMAIN-SUFFIX,bundle-kr-mihayo.akamaized.net
+DOMAIN-SUFFIX,bundle-asia-mihayo.akamaized.net
+DOMAIN-SUFFIX,bigfile-os-mihayo.akamaized.net
+DOMAIN-SUFFIX,hk-bundle-os-mihayo.akamaized.net
+DOMAIN-SUFFIX,bigfile-jp-mihayo.akamaized.net
+DOMAIN-SUFFIX,bundle-os-mihayo.akamaized.net
+DOMAIN-SUFFIX,hk-bigfile-os-mihayo.akamaized.net
+DOMAIN-SUFFIX,bigfile-asia-mihayo.akamaized.net
+DOMAIN-SUFFIX,hk-bigfile-jp-mihayo.akamaized.net
+DOMAIN-SUFFIX,mihayo.akamaized.net
+DOMAIN-SUFFIX,hk-bundle-asia-mihayo.akamaized.net
+DOMAIN-SUFFIX,bundle-jp-mihayo.akamaized.net
+DOMAIN-SUFFIX,hk-bigfile-asia-mihayo.akamaized.net
+DOMAIN-SUFFIX,bigfile-kr-mihayo.akamaized.net
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,mihoyo.com
+# IP-CIDR,74.125.0.0/16,no-resolve
