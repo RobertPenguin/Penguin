@@ -8,4 +8,7 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapip.com
 # IP-CIDR,74.125.0.0/16,no-resolve
