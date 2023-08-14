@@ -3,4 +3,11 @@
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,callofduty.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaihd.net
 # IP-CIDR,74.125.0.0/16,no-resolve
