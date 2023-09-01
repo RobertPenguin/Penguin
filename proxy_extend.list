@@ -13,4 +13,7 @@ DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,jianshuapip.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,nastool.org
+DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,workers.dev
 # IP-CIDR,74.125.0.0/16,no-resolve
