@@ -28,4 +28,6 @@ DOMAIN-SUFFIX,a4k.net
 DOMAIN-SUFFIX,api.iyuu.cn
 DOMAIN-SUFFIX,cmlink.com
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 # IP-CIDR,74.125.0.0/16,no-resolve
