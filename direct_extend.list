@@ -19,4 +19,24 @@ DOMAIN-SUFFIX,hk-bigfile-asia-mihayo.akamaized.net
 DOMAIN-SUFFIX,bigfile-kr-mihayo.akamaized.net
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.bscstorage.com
+DOMAIN-SUFFIX,trts.baishancdnx.cn
+DOMAIN-SUFFIX,st-bak.viv.wanwang.space
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,lv.queniujq.cn
+DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+DOMAIN-SUFFIX,akamai.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 # IP-CIDR,74.125.0.0/16,no-resolve
